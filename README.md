@@ -7,9 +7,10 @@ For the Tableau Full Project, I created a dashboard on 2016 Seattle Airbnb data.
 
 # PowerBI
 For Power BI, I used Parallels Desktop to access Windows to download Power BI Desktop to complete the project on my Mac. Parallels Desktop provides a 14 Day Free Trial and I recommend using this to learn Power BI for Mac users. For the Full Project, I created a dashboard to analyze data from a Data Professional Survey, collected from 630 users.
+<img width="894" alt="Data-Professional-Survey-FinalProject" src="https://github.com/user-attachments/assets/0e2c252a-9f1f-4e2e-9490-853bcaa2a82b" />
+
+# Python
 
 # SQL
 
 # Excel
-
-# Python
